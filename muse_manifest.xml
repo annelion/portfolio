@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1502572718593">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1502642073963">
   <folder name="css">
     <file name="site_global.css" crc="4055949793"/>
     <file name="index.css" crc="447868759" ref="index"/>
     <file name="nomq_index.css" crc="4184510606" ref="index"/>
-    <file name="kontakt.css" crc="4035984073" ref="kontakt"/>
-    <file name="nomq_kontakt.css" crc="472206343" ref="kontakt"/>
+    <file name="kontakt.css" crc="150240652" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="4242190487" ref="kontakt"/>
     <file name="porte.css" crc="3897085169" ref="porte"/>
     <file name="nomq_porte.css" crc="3895804711" ref="porte"/>
   </folder>
@@ -17,11 +17,6 @@
     <file name="jquery.watch.js" crc="460461809" ref="index:kontakt:porte"/>
     <file name="jquery.museresponsive.js" crc="4055310269" ref="index:kontakt:porte"/>
     <file name="require.js" crc="3951022091" ref="index:kontakt:porte"/>
-    <file name="webpro.js" crc="4143865194" ref="kontakt"/>
-    <file name="form_check.php" crc="154010282" ref="kontakt"/>
-    <file name="form_throttle.php" crc="266437015" ref="kontakt"/>
-    <file name="form_process.php" crc="512629711" ref="kontakt"/>
-    <file name="form-u1115.php" crc="4122785810" ref="kontakt"/>
   </folder>
   <folder name="images">
     <file name="sam_3960.png" crc="3817084137" ref="index">
@@ -122,6 +117,6 @@
     <file name="cupcake-u280-fr.jpg" crc="4092856545" ref="porte"/>
   </folder>
   <file name="index.html" crc="4182412707" seo="true" mt="1502572699457" redirect="true"/>
-  <file name="kontakt.html" crc="478454262" seo="true" mt="1502569986358" redirect="true"/>
+  <file name="kontakt.html" crc="4038331601" seo="true" mt="1502642034235" redirect="true"/>
   <file name="porte.html" crc="22628919" seo="true" mt="1502570010017" redirect="true"/>
 </manifest>
