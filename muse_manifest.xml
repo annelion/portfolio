@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1503693429033">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1508927792224">
   <folder name="css">
     <file name="site_global.css" crc="3798535280"/>
     <file name="index.css" crc="301125747" ref="index"/>
     <file name="nomq_index.css" crc="428108215" ref="index"/>
-    <file name="porte.css" crc="4137641311" ref="porte"/>
+    <file name="porte.css" crc="4002432544" ref="porte"/>
     <file name="nomq_porte.css" crc="3942637759" ref="porte"/>
-    <file name="kontakt.css" crc="3956377268" ref="kontakt"/>
-    <file name="nomq_kontakt.css" crc="518791834" ref="kontakt"/>
+    <file name="kontakt.css" crc="134694046" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="164892174" ref="kontakt"/>
   </folder>
   <folder name="assets">
     <file name="grafiskprofilvarvettjanster.pdf" crc="3880135360" seo="true" mt="1503691423000"/>
@@ -77,17 +77,6 @@
       <caption webpage="kontakt" alt=""/>
       <caption webpage="kontakt" alt=""/>
     </file>
-    <file name="if_47_973988.png" crc="3952745749" seo="true" ref="kontakt">
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-    </file>
     <file name="u1024-42.png" crc="4228106972" ref="kontakt"/>
     <file name="sam_2474-u1045-fr.jpg" crc="257120077" ref="kontakt"/>
     <file name="u1024-43.png" crc="3949728639" ref="kontakt"/>
@@ -125,6 +114,6 @@
     <file name="cupcake-u280-fr.jpg" crc="4092856545" ref="porte"/>
   </folder>
   <file name="index.html" crc="4163863932" seo="true" mt="1503685018455" redirect="true"/>
-  <file name="kontakt.html" crc="4236687729" seo="true" mt="1503687107514" redirect="true"/>
-  <file name="porte.html" crc="346599641" seo="true" mt="1503693365479" redirect="true"/>
+  <file name="kontakt.html" crc="3774735688" seo="true" mt="1508927590802" redirect="true"/>
+  <file name="porte.html" crc="1907037" seo="true" mt="1508927761543" redirect="true"/>
 </manifest>
