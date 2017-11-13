@@ -1,25 +1,25 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1508927792224">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1510570059105">
   <folder name="css">
     <file name="site_global.css" crc="3798535280"/>
-    <file name="index.css" crc="301125747" ref="index"/>
-    <file name="nomq_index.css" crc="428108215" ref="index"/>
-    <file name="porte.css" crc="4002432544" ref="porte"/>
-    <file name="nomq_porte.css" crc="3942637759" ref="porte"/>
-    <file name="kontakt.css" crc="134694046" ref="kontakt"/>
-    <file name="nomq_kontakt.css" crc="164892174" ref="kontakt"/>
+    <file name="index.css" crc="414146328" ref="index"/>
+    <file name="nomq_index.css" crc="455383560" ref="index"/>
+    <file name="kontakt.css" crc="253112466" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="3939866436" ref="kontakt"/>
+    <file name="porte.css" crc="8068293" ref="porte"/>
+    <file name="nomq_porte.css" crc="176216961" ref="porte"/>
   </folder>
   <folder name="assets">
     <file name="grafiskprofilvarvettjanster.pdf" crc="3880135360" seo="true" mt="1503691423000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kontakt:porte"/>
-    <file name="museutils.js" crc="17924269" ref="index:kontakt:porte"/>
+    <file name="museutils.js" crc="3803043152" ref="index:kontakt:porte"/>
     <file name="whatinput.js" crc="86476730" ref="index:kontakt:porte"/>
-    <file name="museconfig.js" crc="278381782" ref="index:kontakt:porte"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:kontakt:porte"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:kontakt:porte"/>
-    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:kontakt:porte"/>
-    <file name="require.js" crc="3861931657" ref="index:kontakt:porte"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:kontakt:porte"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:kontakt:porte"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:kontakt:porte"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:kontakt:porte"/>
+    <file name="require.js" crc="4157109226" ref="index:kontakt:porte"/>
   </folder>
   <folder name="images">
     <file name="sam_3960.png" crc="3817084137" ref="index">
@@ -35,23 +35,23 @@
     <file name="u233-44.png" crc="467879371" ref="index"/>
     <file name="u233-45.png" crc="4223969296" ref="index"/>
     <file name="sam_3960-u435-fr.png" crc="4133137788" ref="index"/>
-    <file name="u233-46.png" crc="4193745362" ref="index"/>
+    <file name="u233-46.png" crc="4124155287" ref="index"/>
     <file name="sam_3960-u435-fr2.png" crc="158328866" ref="index"/>
-    <file name="u233-47.png" crc="4140780287" ref="index"/>
+    <file name="u233-47.png" crc="303479710" ref="index"/>
     <file name="sam_3960-u435-fr3.png" crc="486268603" ref="index"/>
-    <file name="u233-48.png" crc="3814307212" ref="index"/>
+    <file name="u233-48.png" crc="191369099" ref="index"/>
     <file name="sam_3960-u435-fr4.png" crc="3784676750" ref="index"/>
-    <file name="u233-49.png" crc="4149237138" ref="index"/>
+    <file name="u233-49.png" crc="513839882" ref="index"/>
     <file name="sam_3960-u435-fr5.png" crc="159483096" ref="index"/>
-    <file name="u233-410.png" crc="4265950252" ref="index"/>
+    <file name="u233-410.png" crc="4182627438" ref="index"/>
     <file name="sam_3960-u435-fr6.png" crc="429586368" ref="index"/>
-    <file name="u233-411.png" crc="3967792175" ref="index"/>
+    <file name="u233-411.png" crc="3810796371" ref="index"/>
     <file name="sam_3960-u435-fr7.png" crc="4143542189" ref="index"/>
-    <file name="u233-412.png" crc="4154331303" ref="index"/>
+    <file name="u233-412.png" crc="212116688" ref="index"/>
     <file name="sam_3960-u435-fr8.png" crc="3999788196" ref="index"/>
-    <file name="u233-413.png" crc="3954468365" ref="index"/>
+    <file name="u233-413.png" crc="179662845" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:kontakt:porte"/>
-    <file name="u1024-4.png" crc="304935908" ref="kontakt"/>
+    <file name="u1024-4.png" crc="3849765300" ref="kontakt"/>
     <file name="sam_2474.jpg" crc="3844556429" ref="kontakt">
       <caption webpage="kontakt" alt=""/>
     </file>
@@ -77,24 +77,23 @@
       <caption webpage="kontakt" alt=""/>
       <caption webpage="kontakt" alt=""/>
     </file>
-    <file name="u1024-42.png" crc="4228106972" ref="kontakt"/>
+    <file name="u1024-42.png" crc="13063751" ref="kontakt"/>
     <file name="sam_2474-u1045-fr.jpg" crc="257120077" ref="kontakt"/>
-    <file name="u1024-43.png" crc="3949728639" ref="kontakt"/>
-    <file name="u1024-44.png" crc="191042015" ref="kontakt"/>
+    <file name="u1024-43.png" crc="377595900" ref="kontakt"/>
+    <file name="u1024-44.png" crc="4255794136" ref="kontakt"/>
     <file name="sam_2474-u1045-fr2.jpg" crc="4119920095" ref="kontakt"/>
-    <file name="u1024-45.png" crc="4184837753" ref="kontakt"/>
-    <file name="u1024-46.png" crc="4051192026" ref="kontakt"/>
-    <file name="u1024-47.png" crc="4051192026" ref="kontakt"/>
-    <file name="u1024-48.png" crc="4051192026" ref="kontakt"/>
-    <file name="u1024-49.png" crc="4051192026" ref="kontakt"/>
-    <file name="u211-4.png" crc="3951857986" ref="porte"/>
+    <file name="u1024-45.png" crc="3789389426" ref="kontakt"/>
+    <file name="u1024-46.png" crc="520287365" ref="kontakt"/>
+    <file name="u1024-47.png" crc="520287365" ref="kontakt"/>
+    <file name="u1024-48.png" crc="520287365" ref="kontakt"/>
+    <file name="u1024-49.png" crc="520287365" ref="kontakt"/>
+    <file name="u211-4.png" crc="4126689803" ref="porte"/>
     <file name="använd.jpg" crc="3767457894" ref="porte"/>
     <file name="social.jpg" crc="3894657360" ref="porte">
       <caption webpage="porte" alt=""/>
       <caption webpage="porte" alt=""/>
     </file>
     <file name="varvet.jpg" crc="201821136" ref="porte">
-      <caption webpage="porte" alt=""/>
       <caption webpage="porte" alt=""/>
       <caption webpage="porte" alt=""/>
     </file>
@@ -106,14 +105,15 @@
       <caption webpage="porte" alt=""/>
       <caption webpage="porte" alt=""/>
     </file>
-    <file name="u211-42.png" crc="4059837783" ref="porte"/>
-    <file name="u211-43.png" crc="179518393" ref="porte"/>
+    <file name="u211-42.png" crc="416028306" ref="porte"/>
+    <file name="u211-43.png" crc="529244589" ref="porte"/>
     <file name="använd-u203-fr.jpg" crc="244014835" ref="porte"/>
     <file name="social-u274-fr.jpg" crc="3851886416" ref="porte"/>
+    <file name="varvet-u277-fr.jpg" crc="3870456796" ref="porte"/>
     <file name="fdsfdsdfsdfsdfs-u2550-fr.jpg" crc="265759640" ref="porte"/>
     <file name="cupcake-u280-fr.jpg" crc="4092856545" ref="porte"/>
   </folder>
-  <file name="index.html" crc="4163863932" seo="true" mt="1503685018455" redirect="true"/>
-  <file name="kontakt.html" crc="3774735688" seo="true" mt="1508927590802" redirect="true"/>
-  <file name="porte.html" crc="1907037" seo="true" mt="1508927761543" redirect="true"/>
+  <file name="index.html" crc="515119640" seo="true" mt="1510570033896" redirect="true"/>
+  <file name="kontakt.html" crc="4291243819" seo="true" mt="1510570033896" redirect="true"/>
+  <file name="porte.html" crc="172314698" seo="true" mt="1510570047040" redirect="true"/>
 </manifest>
