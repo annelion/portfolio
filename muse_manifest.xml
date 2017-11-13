@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1510570059105">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://annelion.github.io/portfolio" resolutions="1x" timestamp="1510570788523">
   <folder name="css">
     <file name="site_global.css" crc="3798535280"/>
-    <file name="index.css" crc="414146328" ref="index"/>
+    <file name="index.css" crc="3990538789" ref="index"/>
     <file name="nomq_index.css" crc="455383560" ref="index"/>
-    <file name="kontakt.css" crc="253112466" ref="kontakt"/>
+    <file name="kontakt.css" crc="294983714" ref="kontakt"/>
     <file name="nomq_kontakt.css" crc="3939866436" ref="kontakt"/>
-    <file name="porte.css" crc="8068293" ref="porte"/>
+    <file name="porte.css" crc="3953614037" ref="porte"/>
     <file name="nomq_porte.css" crc="176216961" ref="porte"/>
   </folder>
   <folder name="assets">
@@ -29,11 +29,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u233-4.png" crc="238624727" ref="index"/>
-    <file name="u233-42.png" crc="48266319" ref="index"/>
-    <file name="u233-43.png" crc="3867384442" ref="index"/>
-    <file name="u233-44.png" crc="467879371" ref="index"/>
-    <file name="u233-45.png" crc="4223969296" ref="index"/>
+    <file name="u233-4.png" crc="4156617508" ref="index"/>
+    <file name="u233-42.png" crc="75074940" ref="index"/>
+    <file name="u233-43.png" crc="4011392366" ref="index"/>
+    <file name="u233-44.png" crc="4120869060" ref="index"/>
+    <file name="u233-45.png" crc="346200020" ref="index"/>
     <file name="sam_3960-u435-fr.png" crc="4133137788" ref="index"/>
     <file name="u233-46.png" crc="4124155287" ref="index"/>
     <file name="sam_3960-u435-fr2.png" crc="158328866" ref="index"/>
@@ -113,7 +113,7 @@
     <file name="fdsfdsdfsdfsdfs-u2550-fr.jpg" crc="265759640" ref="porte"/>
     <file name="cupcake-u280-fr.jpg" crc="4092856545" ref="porte"/>
   </folder>
-  <file name="index.html" crc="515119640" seo="true" mt="1510570033896" redirect="true"/>
-  <file name="kontakt.html" crc="4291243819" seo="true" mt="1510570033896" redirect="true"/>
-  <file name="porte.html" crc="172314698" seo="true" mt="1510570047040" redirect="true"/>
+  <file name="index.html" crc="3939217951" seo="true" mt="1510570677175" redirect="true"/>
+  <file name="kontakt.html" crc="3795105986" seo="true" mt="1510570574914" redirect="true"/>
+  <file name="porte.html" crc="3917517243" seo="true" mt="1510570753694" redirect="true"/>
 </manifest>
